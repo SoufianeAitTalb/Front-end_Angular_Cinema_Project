@@ -1,0 +1,14 @@
+/*clickable {*/
+/*  cursor: pointer;*/
+/*}*/
+
+ul li {
+  cursor: pointer;
+}
+
+.ticket {
+  margin: 5px;
+  width: 50px;
+  font-size: 15px;
+  text-align: center;
+}
